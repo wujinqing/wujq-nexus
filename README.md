@@ -156,7 +156,7 @@ uploadArchives {
 |参数|说明|示例|
 |---|---|---|
 |url|远程仓库地址|http://10.67.200.215:8081/repository/maven-public/|
-|repositoryId|用户名密码|对应的是settings.xml配置文件里面的<id>，<server><id>mutms</id><username>mutms</username><password>ceair123</password></server>|
+|repositoryId|用户名密码|对应的是settings.xml配置文件里面的\<id>，\<server>\<id>mutms\</id>\<username>mutms\</username>\<password>ceair123\</password>\</server>|
 |file|要安装到远程的jar路径|path-to-your-artifact-jar|
 |groupId|||
 |artifactId|||
